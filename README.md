@@ -48,3 +48,9 @@ POST api.php?action=save           # whole-table rewrite — session only, never
 In daily production use since July 2026 at Hangzhou Zhenbao Trading Co., Ltd. A white-label deployment edition is in preparation.
 
 Source code will be added after sanitisation.
+
+## Contact
+
+Open to white-label deployments and custom CRM builds for export businesses.
+
+Maggie Yue · Hangzhou Zhenbao Trading Co., Ltd. · [sales@zhenbaotrading.com](mailto:sales@zhenbaotrading.com)
